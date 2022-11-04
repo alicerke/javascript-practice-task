@@ -1,3 +1,3 @@
 # javascript-practice-task
 
-hi
+Javascript task
